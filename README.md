@@ -11,8 +11,9 @@
 •	💬Pergunte-me sobre qualquer assunto
 
 •	📫Como chegar até mim:
-. Ema il: paulomaiapy@gmail.com     
-. LinkedIn: https://www.linkedin.com/in/paulosmaia
+
+  . Ema il: paulomaiapy@gmail.com     
+  . LinkedIn: https://www.linkedin.com/in/paulosmaia
 
 •	⚡Curiosidade: Humildemente sempre busco a evolução
 
