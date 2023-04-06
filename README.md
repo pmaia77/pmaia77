@@ -4,18 +4,18 @@
 
 •	🔭 Atualmente estou trabalhando como Product Owner, sou apaixonado por criar soluções que façam a diferença na vida das pessoas. Sou especialista no desenvolvimento de automações e soluções baseadas em Python que funcionam em ambientes públicos e privados.
 
-•	🌱 Sou estudante assíduo em Python e todas as possibilidades que essa ferramenta magnifica pode nos proporcionar 
+•	🌱 Sou estudante assíduo em Python e todas as possibilidades que essa ferramenta magnifica pode nos apresentar.
 
-•	🤔Estou sempre contribuin
+•	🤔Estou sempre contribuin.
 
-•	💬Pergunte-me sobre qualquer assunto
+•	💬Pergunte-me sobre qualquer assunto.
 
 •	📫Como chegar até mim:
 
   . Ema il: paulomaiapy@gmail.com     
   . LinkedIn: https://www.linkedin.com/in/paulosmaia
 
-•	⚡Curiosidade: Humildemente sempre busco a evolução
+•	⚡Curiosidade: Humildemente sempre busco por evolução.
 
   <div>
   <a href="https://github.com/pmaia77">
